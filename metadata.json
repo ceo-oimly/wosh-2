@@ -1,0 +1,6 @@
+{
+  "name": "WOSH Lagos - Laundry Subscription",
+  "description": "A functional laundry subscription app for everyday Nigerians in Lagos. Simple, premium, and easy to use.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
